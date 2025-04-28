@@ -5,7 +5,7 @@
 ## 💡 Funcionalidades
 
 - Conexão ao SQL Server com variáveis de ambiente para maior segurança.
-- Operações de **CRUD** na tabela `pessoa`:
+- Operações de **CRUD** em uma tabela de exemplo  com nome `pessoa`:
   - **Create**: Criação de novos registros.
   - **Read**: Leitura e listagem de registros.
   - **Update**: Atualização de registros existentes.
@@ -63,7 +63,7 @@ Caso esteja utilizando IntelliJ IDEA ou Eclipse, configure as variáveis de ambi
    ```
 3. Execute o programa:
    ```
-   java -cp bin PessoaDAO
+   java -cp bin main
    ```
 
 ## 🗂️ Estrutura do Projeto
@@ -71,9 +71,9 @@ Caso esteja utilizando IntelliJ IDEA ou Eclipse, configure as variáveis de ambi
 manipulaSQL/
 │
 ├── src/
-│   ├── ConexaoSegura.java       # Gerencia a conexão com o SQL Server
-│   ├── PessoaDAO.java           # Implementa as operações CRUD
-│   └── Main.java                # Ponto de entrada para testes
+│   ├── connectSQL.java          # Gerencia a conexão com o SQL Server
+│   ├── dataBaseDAO.java         # Implementa as operações CRUD
+│   └── main.java                # Ponto de entrada para testes
 │
 ├── README.md                    # Documentação do projeto
 └── pom.xml                      # Configuração do Maven (se aplicável)
