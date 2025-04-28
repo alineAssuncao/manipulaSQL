@@ -110,6 +110,19 @@ git push origin minha-feature
 ## 📜 Licença
 Este projeto é licenciado sob a licença MIT. Consulte o arquivo LICENSE para mais informações.
 
+## 🌟 Agradecimento Especial 🌟
+Quero expressar minha profunda gratidão a todos que tornaram possível a construção deste conteúdo.
+
+✨ À comunidade: Obrigada pelo suporte contínuo, pelas ideias compartilhadas, pela inspiração e por todos os momentos de aprendizado coletivo.
+
+✨ Às pessoas próximas a mim: Obrigada por cada palavra de encorajamento, cada troca de conhecimento e pelo apoio inabalável durante todo o processo.
+
+Este projeto é fruto de colaboração, dedicação e paixão. Sou extremamente grata por cada contribuição, grande ou pequena, que fez toda a diferença. 🌻
+
+
+
+
+
 
 
 
