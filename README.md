@@ -1,4 +1,5 @@
 # ManipulaSQL
+by Aline Assunção
 
 **ManipulaSQL** é um projeto em Java para manipulação de banco de dados SQL Server com operações de **CRUD** (Create, Read, Update, Delete). Ele foi desenvolvido seguindo boas práticas de segurança para proteger informações sensíveis, utilizando variáveis de ambiente para configurar credenciais de acesso.
 
@@ -119,7 +120,7 @@ Quero expressar minha profunda gratidão a todos que tornaram possível a constr
 
 Este projeto é fruto de colaboração, dedicação e paixão. Sou extremamente grata por cada contribuição, grande ou pequena, que fez toda a diferença. 🌻
 
-by Aline Assunção
+
 
 
 
